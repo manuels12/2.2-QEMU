@@ -1,4 +1,4 @@
-![](tec.png)
+![](por.png)
 
 #    Tecnológico Nacional de México
 #   Instituto Tecnológico de Tijuana
