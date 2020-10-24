@@ -1,6 +1,12 @@
 
 ![l](por.png)
 
+
+
+
+
+
+
 #    Tecnológico Nacional de México
 #   Instituto Tecnológico de Tijuana
 #        Subdirección Académica
