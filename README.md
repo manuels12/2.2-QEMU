@@ -24,7 +24,7 @@
 * * *
 
 
-# **CORRIDA DE PROGRAMAS CPP**
+# **CORRIDA DE PROGRAMAS CPP Y CODIGO**
 * * *
 
 
